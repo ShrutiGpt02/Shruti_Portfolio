@@ -41,30 +41,20 @@ I believe great analytics isn't just about dashboards—it's about asking the ri
 
 An interactive Power BI dashboard built to analyze over 646 million social media engagements across multiple platforms.
 
-Repository Link : Link- https://github.com/ShrutiGpt02/Social_Media_Performance_Analytics_Dashboard-
-
+Repository Link: Link- https://github.com/ShrutiGpt02/Social_Media_Performance_Analytics_Dashboard-
 
 ## 🛒 Retail Sales Analysis
 
-SQL Project
-
 A complete SQL analysis of retail sales data to uncover customer purchasing patterns, product performance, seasonal trends, and revenue opportunities.
 
-Repository Link : https://github.com/ShrutiGpt02/SQL_P1_Retail_sales_analysis
+Repository Link: https://github.com/ShrutiGpt02/SQL_P1_Retail_sales_analysis
+
+## 🥽 Augmented Reality Changing the E-commerce Reality
+
+A business analysis case study exploring how Augmented Reality (AR) is transforming the online shopping experience by improving customer engagement, reducing product returns, and enhancing buying confidence.
+
+Repository Link: https://github.com/ShrutiGpt02/Augmented-Reality-Changing-the-E-commerce-Reality-
 
 
 
-
-
-SQL_P1- Retail Sales Analysis
-
-Link-https://github.com/ShrutiGpt02/SQL_P1_Retail_sales_analysis
-
-Business Analysis case study- Augmented Reality changing the E-commerce Reality 
-
-Link - https://github.com/ShrutiGpt02/Augmented-Reality-Changing-the-E-commerce-Reality-
-
-PowerBI_P1- Social Media Performance Analysis Dashboard 
-
-Link- https://github.com/ShrutiGpt02/Social_Media_Performance_Analytics_Dashboard-
 
