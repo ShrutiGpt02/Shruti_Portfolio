@@ -1,6 +1,6 @@
 # Hi, I'm Shruti Gupta 
 
-![Shruti](Shruti.png)
+![Shruti](Shruti.jpeg)
 
 I'm a PGDM (Marketing) graduate from Birla Institute of Management Technology (BIMTECH) with experience at the intersection of business, technology, and analytics.
 
