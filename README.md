@@ -37,15 +37,20 @@ I believe great analytics isn't just about dashboards—it's about asking the ri
 
 # Featured Projects
 
-## Social Media Performance Analytics Dashboard
+## 📈Social Media Performance Analytics Dashboard
 
 An interactive Power BI dashboard built to analyze over 646 million social media engagements across multiple platforms.
 
 Repository Link : Link- https://github.com/ShrutiGpt02/Social_Media_Performance_Analytics_Dashboard-
 
 
+## 🛒 Retail Sales Analysis
 
+SQL Project
 
+A complete SQL analysis of retail sales data to uncover customer purchasing patterns, product performance, seasonal trends, and revenue opportunities.
+
+Repository Link : https://github.com/ShrutiGpt02/SQL_P1_Retail_sales_analysis
 
 
 
