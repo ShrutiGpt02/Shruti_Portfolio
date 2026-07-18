@@ -43,17 +43,31 @@ An interactive Power BI dashboard built to analyze over 646 million social media
 
 Repository Link: Link- https://github.com/ShrutiGpt02/Social_Media_Performance_Analytics_Dashboard-
 
+## 🥽 Augmented Reality Changing the E-commerce Reality
+
+A business analysis case study exploring how Augmented Reality (AR) is transforming the online shopping experience by improving customer engagement, reducing product returns, and enhancing buying confidence.
+
+Repository Link: https://github.com/ShrutiGpt02/Augmented-Reality-Changing-the-E-commerce-Reality-
+
 ## 🛒 Retail Sales Analysis
 
 A complete SQL analysis of retail sales data to uncover customer purchasing patterns, product performance, seasonal trends, and revenue opportunities.
 
 Repository Link: https://github.com/ShrutiGpt02/SQL_P1_Retail_sales_analysis
 
-## 🥽 Augmented Reality Changing the E-commerce Reality
 
-A business analysis case study exploring how Augmented Reality (AR) is transforming the online shopping experience by improving customer engagement, reducing product returns, and enhancing buying confidence.
 
-Repository Link: https://github.com/ShrutiGpt02/Augmented-Reality-Changing-the-E-commerce-Reality-
+
+
+
+📫 Let's Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/shruti-gupta-16605018b/
+
+💻 GitHub: https://github.com/ShrutiGpt02/Shruti_Portfolio
+
+📧 Email: shrutigupta02022001@gmail.com
+
 
 
 
