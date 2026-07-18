@@ -21,6 +21,7 @@ I believe great analytics isn't just about dashboards—it's about asking the ri
 -Requirement Gathering  -Stakeholder Communication  -Business Process Analysis  -Market Research  -Marketing Analytics  -Data Storytelling
 
 ⚙️ Tools
+
 -Power Query  -Git & GitHub
 
 # 🎓Certifications
@@ -43,24 +44,26 @@ An interactive Power BI dashboard built to analyze over 646 million social media
 
 Repository Link: Link- https://github.com/ShrutiGpt02/Social_Media_Performance_Analytics_Dashboard-
 
-## 🥽 Augmented Reality Changing the E-commerce Reality
+## 🥽Augmented Reality Changing the E-commerce Reality
 
 A business analysis case study exploring how Augmented Reality (AR) is transforming the online shopping experience by improving customer engagement, reducing product returns, and enhancing buying confidence.
 
 Repository Link: https://github.com/ShrutiGpt02/Augmented-Reality-Changing-the-E-commerce-Reality-
 
-## 🛒 Retail Sales Analysis
+## 🛒Retail Sales Analysis
 
 A complete SQL analysis of retail sales data to uncover customer purchasing patterns, product performance, seasonal trends, and revenue opportunities.
 
 Repository Link: https://github.com/ShrutiGpt02/SQL_P1_Retail_sales_analysis
 
+## 📱Mobile Sales Analysis Dashboard
+
+An interactive Power BI dashboard analyzing mobile sales, customer behavior, product performance, sales channels, and revenue trends to deliver actionable business insights through data visualization.
+
+Repository Link: https://github.com/ShrutiGpt02/Mobile_Sales_Analysis_Dashboard
 
 
-
-
-
-📫 Let's Connect
+## 📫 Let's Connect
 
 💼 LinkedIn: https://www.linkedin.com/in/shruti-gupta-16605018b/
 
