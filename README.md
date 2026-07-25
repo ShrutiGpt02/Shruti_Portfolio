@@ -38,11 +38,17 @@ I believe great analytics isn't just about dashboards—it's about asking the ri
 
 # Featured Projects
 
+## 📖Decoding UPI : What really happens after you scan a QR code
+
+An article explaining how India's UPI ecosystem enables seamless digital payments while debunking common misconceptions about how digital payment infrastructure works.
+
+Repository Link : 
+
 ## 📈Social Media Performance Analytics Dashboard
 
 An interactive Power BI dashboard built to analyze over 646 million social media engagements across multiple platforms.
 
-Repository Link: Link- https://github.com/ShrutiGpt02/Social_Media_Performance_Analytics_Dashboard-
+Repository Link: https://github.com/ShrutiGpt02/Social_Media_Performance_Analytics_Dashboard-
 
 ## 🥽Augmented Reality Changing the E-commerce Reality
 
