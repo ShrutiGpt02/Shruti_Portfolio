@@ -38,11 +38,11 @@ I believe great analytics isn't just about dashboards—it's about asking the ri
 
 # Featured Projects
 
-## 📖Decoding UPI : What really happens after you scan a QR code
+## 📲Decoding UPI :What really happens after you scan a QR code
 
 An article explaining how India's UPI ecosystem enables seamless digital payments while debunking common misconceptions about how digital payment infrastructure works.
 
-Repository Link : 
+Repository Link :https://github.com/ShrutiGpt02/Decoding_UPI/tree/main 
 
 ## 📈Social Media Performance Analytics Dashboard
 
